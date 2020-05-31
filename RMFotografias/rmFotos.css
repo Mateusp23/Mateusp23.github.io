@@ -1,0 +1,50 @@
+header {
+    width: 100%;
+    padding-top: 25px !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    background-color: #E9967A;
+}
+
+body {
+    background-image: url("camera2.jpg");
+}
+
+section {
+    text-align: justify;
+}
+p {
+    color: whitesmoke !important;
+}
+
+h1 {
+    color: honeydew !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+.Titulos {
+    padding-left: 15px !important;
+    background-color: #E9967A;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    color: whitesmoke !important;
+}
+h2 {
+    text-align: center;
+    color: rgb(243, 209, 209);
+    padding-top: 15px !important;
+}
+
+.textoRai {
+    color: rgb(243, 209, 209) !important;
+    font-size: 20px !important;
+    padding-top: 10px !important;
+    font-size: 20px !important;
+}
+
+footer {
+    background-image: url("footerRai.jpeg") !important;
+    padding-bottom: 15px !important;
+    padding-top: 15px !important;
+}
+
+.imgfooter {
+    text-align: center !important;
+}
